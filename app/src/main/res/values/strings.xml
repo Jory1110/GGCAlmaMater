@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GGCAlmaMater</string>
+
+
+        <string-array name="planets_array">
+            <item>Hi Vocals</item>
+            <item>Low Vocals</item>
+            <item>Piano Only</item>
+            <item>Vocals Only</item>
+        </string-array>
+
+</resources>
